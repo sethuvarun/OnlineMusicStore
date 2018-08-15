@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="eMusicStore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c66da60-8cee-40a8-8669-bb72c865a82e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/eMusicStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eMusicStore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-logging-1.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-aop-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-aspects-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-beans-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-context-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-context-support-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-context-support-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-core-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-expression-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-instrument-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-instrument-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-jdbc-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-jms-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-jms-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-messaging-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-messaging-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-orm-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-orm-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-oxm-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-oxm-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-test-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-test-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-tx-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-web-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-webmvc-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-webmvc-portlet-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-webmvc-portlet-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-websocket-4.2.4.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/spring-websocket-4.2.4.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CartDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CartDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CartItemDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CartItemDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CustomerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CustomerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CustomerOrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/CustomerOrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CartDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CartDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CartItemDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CartItemDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CustomerDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CustomerDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CustomerOrderDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/CustomerOrderDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/ProductDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Authorities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Authorities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/BillingAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/BillingAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/CustomerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/CustomerOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/ShippingAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/ShippingAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CartItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CartItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CustomerOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CustomerOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CartItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CartItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CustomerOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CustomerOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/checkOutCancelled.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/checkOutCancelled.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/collectCustomerInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/collectCustomerInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/collectShippingDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/collectShippingDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/invalidCartWarning.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/invalidCartWarning.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/orderConfirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/orderConfirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/thankCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/thankCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/accessory.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/accessory.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/instrument.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/instrument.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/record.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/record.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/showroom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/showroom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/jquery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customerManagement.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customerManagement.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productInventory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productInventory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registerCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registerCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registerCustomerSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registerCustomerSuccess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <ignored path="eMusicStore.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="932230442">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="295" />
+          <entry key="xml" value="129" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="295" />
+          <entry key="XML" value="129" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="java" value="2" />
+          <entry key="jsp" value="5" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="2" />
+          <entry key="JSP" value="5" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-801572653">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="26" />
+          <entry key="xml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="26" />
+          <entry key="XML" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="jsp" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="JSP" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-684359534">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="73" />
+          <entry key="jsp" value="28" />
+          <entry key="xml" value="198" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="73" />
+          <entry key="JSP" value="28" />
+          <entry key="XML" value="198" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="jsp" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="JSP" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="eMusicStore" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.emusicstore.dao.CartDao" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.emusicstore.dao.CartDao">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.emusicstore.dao.CartDao</OriginalElement>
+              <nodes>
+                <node x="766.0" y="1727.0">com.emusicstore.controller.CartController</node>
+                <node x="44.5" y="2121.0">com.emusicstore.service.impl.CartServiceImpl</node>
+                <node x="948.85" y="2121.0">com.emusicstore.service.impl.CustomerOrderServiceImpl</node>
+                <node x="1165.25" y="302.0">com.emusicstore.model.ShippingAddress</node>
+                <node x="2215.25" y="302.0">com.emusicstore.model.BillingAddress</node>
+                <node x="129.96805555555545" y="1175.0">com.emusicstore.dao.impl.CartItemDaoImpl</node>
+                <node x="720.75" y="1348.0">org.springframework.web.bind.annotation.RequestMapping</node>
+                <node x="703.1" y="1900.0">com.emusicstore.service.CustomerService</node>
+                <node x="1300.75" y="1425.0">org.springframework.stereotype.Controller</node>
+                <node x="533.25" y="269.0">com.emusicstore.model.Customer</node>
+                <node x="1418.275" y="871.0">com.emusicstore.dao.CustomerDao</node>
+                <node x="198.0" y="1900.0">com.emusicstore.service.CartItemService</node>
+                <node x="1033.0" y="1716.0">com.emusicstore.controller.admin.AdminHome</node>
+                <node x="1591.0" y="1727.0">com.emusicstore.controller.RegisterController</node>
+                <node x="0.0" y="0.0">javax.persistence.Table</node>
+                <node x="2273.0" y="1738.0">com.emusicstore.controller.OrderController</node>
+                <node x="1330.1" y="1889.0">com.emusicstore.service.ProductService</node>
+                <node x="536.859090909091" y="1933.0">org.springframework.stereotype.Service</node>
+                <node x="1319.0" y="1683.0">com.emusicstore.controller.CartResources</node>
+                <node x="0.0" y="1694.0">com.emusicstore.controller.admin.AdminProduct</node>
+                <node x="88.25" y="379.0">com.emusicstore.model.Users</node>
+                <node x="0.0" y="871.0">com.emusicstore.dao.CartItemDao</node>
+                <node x="0.0" y="1922.0">com.emusicstore.service.CartService</node>
+                <node x="501.0" y="904.0">org.springframework.stereotype.Repository</node>
+                <node x="1718.25" y="379.0">com.emusicstore.model.CartItem</node>
+                <node x="444.0" y="1716.0">com.emusicstore.controller.ProductController</node>
+                <node x="1187.65" y="1175.0">com.emusicstore.dao.impl.CustomerDaoImpl</node>
+                <node x="1021.1" y="1922.0">com.emusicstore.service.CustomerOrderService</node>
+                <node x="1157.25" y="33.0">javax.persistence.Entity</node>
+                <node x="311.25" y="423.0">com.emusicstore.model.Authorities</node>
+                <node x="576.609090909091" y="2099.0">com.emusicstore.service.impl.CustomerServiceImpl</node>
+                <node x="1111.275" y="904.0">com.emusicstore.dao.CustomerOrderDao</node>
+                <node x="279.859090909091" y="2099.0">com.emusicstore.service.impl.CartItemServiceImpl</node>
+                <node x="2007.0" y="1716.0">com.emusicstore.controller.HomeController</node>
+                <node x="303.0" y="882.0">com.emusicstore.dao.CartDao</node>
+                <node x="1579.5" y="44.0">java.io.Serializable</node>
+                <node x="1946.25" y="401.0">com.emusicstore.model.Cart</node>
+                <node x="1516.4833333333333" y="1164.0">com.emusicstore.dao.impl.ProductDaoImpl</node>
+                <node x="417.96805555555545" y="1186.0">com.emusicstore.dao.impl.CartDaoImpl</node>
+                <node x="715.3583333333333" y="1208.0">com.emusicstore.dao.impl.CustomerOrderDaoImpl</node>
+                <node x="1435.25" y="247.0">com.emusicstore.model.Product</node>
+                <node x="849.25" y="379.0">com.emusicstore.model.CustomerOrder</node>
+                <node x="1736.275" y="860.0">com.emusicstore.dao.ProductDao</node>
+                <node x="777.275" y="805.0">org.springframework.transaction.annotation.Transactional</node>
+                <node x="1271.85" y="2088.0">com.emusicstore.service.impl.ProductServiceImpl</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.emusicstore.controller.admin.AdminHome" target="org.springframework.web.bind.annotation.RequestMapping">
+                  <point x="-66.5" y="-47.5" />
+                  <point x="1099.5" y="1623.0" />
+                  <point x="870.5500000000001" y="1623.0" />
+                  <point x="42.80000000000007" y="102.5" />
+                </edge>
+                <edge source="com.emusicstore.model.BillingAddress" target="java.io.Serializable">
+                  <point x="62.5" y="-201.5" />
+                  <point x="2402.75" y="137.0" />
+                  <point x="1677.9285714285716" y="137.0" />
+                  <point x="45.428571428571445" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.model.BillingAddress" target="javax.persistence.Entity">
+                  <point x="-62.5" y="-201.5" />
+                  <point x="2277.75" y="147.0" />
+                  <point x="1290.4166666666667" y="147.0" />
+                  <point x="62.66666666666674" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="org.springframework.stereotype.Repository">
+                  <point x="0.0" y="-47.5" />
+                  <point x="506.96805555555545" y="1114.0" />
+                  <point x="542.7" y="1114.0" />
+                  <point x="-27.799999999999955" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.CartController" target="org.springframework.stereotype.Controller">
+                  <point x="61.75" y="-36.5" />
+                  <point x="951.25" y="1653.0" />
+                  <point x="1344.1875" y="1653.0" />
+                  <point x="-26.0625" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.ProductController" target="org.springframework.stereotype.Controller">
+                  <point x="75.5" y="-47.5" />
+                  <point x="670.5" y="1643.0" />
+                  <point x="1326.8125" y="1643.0" />
+                  <point x="-43.4375" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.CartItem" target="javax.persistence.Entity">
+                  <point x="-52.0" y="-124.5" />
+                  <point x="1770.25" y="187.0" />
+                  <point x="1259.0833333333333" y="187.0" />
+                  <point x="31.333333333333258" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.admin.AdminProduct" target="org.springframework.stereotype.Controller">
+                  <point x="106.0" y="-69.5" />
+                  <point x="318.0" y="1633.0" />
+                  <point x="1309.4375" y="1633.0" />
+                  <point x="-60.8125" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.CartController" target="org.springframework.web.bind.annotation.RequestMapping">
+                  <point x="-61.75" y="-36.5" />
+                  <point x="0.0" y="102.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+                  <point x="0.0" y="-25.5" />
+                  <point x="858.8583333333333" y="1144.0" />
+                  <point x="934.275" y="1144.0" />
+                  <point x="0.0" y="124.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.admin.AdminProduct" target="org.springframework.web.bind.annotation.RequestMapping">
+                  <point x="-106.0" y="-69.5" />
+                  <point x="106.0" y="1613.0" />
+                  <point x="742.15" y="1613.0" />
+                  <point x="-85.60000000000002" y="102.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.ProductController" target="org.springframework.web.bind.annotation.RequestMapping">
+                  <point x="-75.5" y="-47.5" />
+                  <point x="519.5" y="1623.0" />
+                  <point x="784.95" y="1623.0" />
+                  <point x="-42.799999999999955" y="102.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.service.CustomerOrderService">
+                  <point x="72.25" y="-36.5" />
+                  <point x="0.0" y="36.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="org.springframework.stereotype.Repository">
+                  <point x="-99.33333333333326" y="-58.5" />
+                  <point x="1237.3166666666668" y="1104.0" />
+                  <point x="598.3" y="1104.0" />
+                  <point x="27.799999999999955" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+                  <point x="59.33333333333326" y="-47.5" />
+                  <point x="566.3013888888887" y="1134.0" />
+                  <point x="871.475" y="1134.0" />
+                  <point x="-62.799999999999955" y="124.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CartServiceImpl" target="org.springframework.stereotype.Service">
+                  <point x="44.5" y="-36.5" />
+                  <point x="178.0" y="2058.0" />
+                  <point x="550.7590909090909" y="2058.0" />
+                  <point x="-55.60000000000002" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Product" target="java.io.Serializable">
+                  <point x="65.75" y="-256.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="com.emusicstore.dao.ProductDao">
+                  <point x="77.66666666666674" y="-69.5" />
+                  <point x="1710.65" y="1144.0" />
+                  <point x="1852.775" y="1144.0" />
+                  <point x="0.0" y="69.5" />
+                </edge>
+                <edge source="com.emusicstore.model.CustomerOrder" target="java.io.Serializable">
+                  <point x="74.0" y="-124.5" />
+                  <point x="1071.25" y="217.0" />
+                  <point x="1602.2142857142858" y="217.0" />
+                  <point x="-30.285714285714334" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CartServiceImpl" target="com.emusicstore.service.CartService">
+                  <point x="-44.5" y="-36.5" />
+                  <point x="0.0" y="36.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="com.emusicstore.dao.CustomerDao">
+                  <point x="99.33333333333337" y="-58.5" />
+                  <point x="1435.9833333333336" y="1144.0" />
+                  <point x="1567.275" y="1144.0" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="com.emusicstore.dao.CartDao">
+                  <point x="-59.33333333333326" y="-47.5" />
+                  <point x="447.6347222222222" y="1094.0" />
+                  <point x="392.0" y="1094.0" />
+                  <point x="0.0" y="47.5" />
+                </edge>
+                <edge source="com.emusicstore.model.CustomerOrder" target="javax.persistence.Entity">
+                  <point x="-74.0" y="-124.5" />
+                  <point x="923.25" y="197.0" />
+                  <point x="1212.0833333333333" y="197.0" />
+                  <point x="-15.666666666666742" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.CartItem" target="java.io.Serializable">
+                  <point x="52.0" y="-124.5" />
+                  <point x="1874.25" y="177.0" />
+                  <point x="1647.642857142857" y="177.0" />
+                  <point x="15.14285714285711" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="org.springframework.stereotype.Repository">
+                  <point x="-95.66666666666669" y="-25.5" />
+                  <point x="763.1916666666666" y="1114.0" />
+                  <point x="570.5" y="1114.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.CartResources" target="org.springframework.stereotype.Controller">
+                  <point x="63.0" y="-80.5" />
+                  <point x="1508.0" y="1603.0" />
+                  <point x="1378.9375" y="1603.0" />
+                  <point x="8.6875" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.OrderController" target="org.springframework.stereotype.Controller">
+                  <point x="0.0" y="-25.5" />
+                  <point x="2366.5" y="1573.0" />
+                  <point x="1431.0625" y="1573.0" />
+                  <point x="60.8125" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Product" target="javax.persistence.Entity">
+                  <point x="-65.75" y="-256.5" />
+                  <point x="1501.0" y="197.0" />
+                  <point x="1243.4166666666667" y="197.0" />
+                  <point x="15.666666666666742" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.admin.AdminHome" target="org.springframework.stereotype.Controller">
+                  <point x="66.5" y="-47.5" />
+                  <point x="1232.5" y="1663.0" />
+                  <point x="1361.5625" y="1663.0" />
+                  <point x="-8.6875" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Users" target="javax.persistence.Entity">
+                  <point x="50.75" y="-124.5" />
+                  <point x="240.5" y="167.0" />
+                  <point x="1165.0833333333333" y="167.0" />
+                  <point x="-62.66666666666674" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Cart" target="java.io.Serializable">
+                  <point x="62.25" y="-102.5" />
+                  <point x="2133.0" y="157.0" />
+                  <point x="1662.7857142857142" y="157.0" />
+                  <point x="30.285714285714334" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="org.springframework.stereotype.Repository">
+                  <point x="-77.66666666666674" y="-69.5" />
+                  <point x="1555.3166666666666" y="1084.0" />
+                  <point x="626.1" y="1084.0" />
+                  <point x="55.60000000000002" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="org.springframework.stereotype.Service">
+                  <point x="-58.25" y="-69.5" />
+                  <point x="1330.1" y="2048.0" />
+                  <point x="661.959090909091" y="2048.0" />
+                  <point x="55.60000000000002" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="org.springframework.stereotype.Service">
+                  <point x="67.0" y="-58.5" />
+                  <point x="480.859090909091" y="2068.0" />
+                  <point x="578.5590909090911" y="2068.0" />
+                  <point x="-27.799999999999955" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+                  <point x="89.33333333333326" y="-58.5" />
+                  <point x="353.3013888888887" y="1124.0" />
+                  <point x="808.675" y="1124.0" />
+                  <point x="-125.60000000000002" y="124.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="com.emusicstore.service.CustomerService">
+                  <point x="74.5" y="-58.5" />
+                  <point x="800.109090909091" y="2068.0" />
+                  <point x="852.1" y="2068.0" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Customer" target="javax.persistence.Entity">
+                  <point x="-74.0" y="-234.5" />
+                  <point x="607.25" y="187.0" />
+                  <point x="1196.4166666666667" y="187.0" />
+                  <point x="-31.333333333333258" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="org.springframework.stereotype.Service">
+                  <point x="-74.5" y="-58.5" />
+                  <point x="651.109090909091" y="2068.0" />
+                  <point x="606.359090909091" y="2068.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.RegisterController" target="org.springframework.stereotype.Controller">
+                  <point x="0.0" y="-36.5" />
+                  <point x="1789.0" y="1593.0" />
+                  <point x="1396.3125" y="1593.0" />
+                  <point x="26.0625" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Customer" target="java.io.Serializable">
+                  <point x="74.0" y="-234.5" />
+                  <point x="755.25" y="207.0" />
+                  <point x="1587.0714285714284" y="207.0" />
+                  <point x="-45.428571428571445" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="com.emusicstore.dao.CartItemDao">
+                  <point x="-89.33333333333326" y="-58.5" />
+                  <point x="174.6347222222222" y="1144.0" />
+                  <point x="134.0" y="1144.0" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Users" target="javax.persistence.Table">
+                  <point x="-50.75" y="-124.5" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="org.springframework.stereotype.Repository">
+                  <point x="0.0" y="-58.5" />
+                  <point x="263.96805555555545" y="1104.0" />
+                  <point x="514.9" y="1104.0" />
+                  <point x="-55.60000000000002" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+                  <point x="0.0" y="-69.5" />
+                  <point x="1632.9833333333333" y="1074.0" />
+                  <point x="1059.875" y="1074.0" />
+                  <point x="125.60000000000014" y="124.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="com.emusicstore.dao.CustomerOrderDao">
+                  <point x="95.66666666666669" y="-25.5" />
+                  <point x="954.5250000000001" y="1144.0" />
+                  <point x="1254.775" y="1144.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="org.springframework.stereotype.Service">
+                  <point x="-72.25" y="-36.5" />
+                  <point x="1021.1" y="2058.0" />
+                  <point x="634.159090909091" y="2058.0" />
+                  <point x="27.799999999999955" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Cart" target="javax.persistence.Entity">
+                  <point x="-62.25" y="-102.5" />
+                  <point x="2008.5" y="167.0" />
+                  <point x="1274.75" y="167.0" />
+                  <point x="47.0" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="com.emusicstore.service.CartItemService">
+                  <point x="-67.0" y="-58.5" />
+                  <point x="346.859090909091" y="2048.0" />
+                  <point x="332.0" y="2048.0" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="com.emusicstore.model.Authorities" target="javax.persistence.Entity">
+                  <point x="0.0" y="-80.5" />
+                  <point x="412.25" y="177.0" />
+                  <point x="1180.75" y="177.0" />
+                  <point x="-47.0" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="com.emusicstore.service.ProductService">
+                  <point x="58.25" y="-69.5" />
+                  <point x="0.0" y="69.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.CartResources" target="org.springframework.web.bind.annotation.RequestMapping">
+                  <point x="-63.0" y="-80.5" />
+                  <point x="1382.0" y="1613.0" />
+                  <point x="913.35" y="1613.0" />
+                  <point x="85.60000000000002" y="102.5" />
+                </edge>
+                <edge source="com.emusicstore.model.ShippingAddress" target="java.io.Serializable">
+                  <point x="62.5" y="-201.5" />
+                  <point x="1352.75" y="227.0" />
+                  <point x="1617.357142857143" y="227.0" />
+                  <point x="-15.14285714285711" y="14.5" />
+                </edge>
+                <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+                  <point x="0.0" y="-58.5" />
+                  <point x="1336.65" y="1094.0" />
+                  <point x="997.0749999999999" y="1094.0" />
+                  <point x="62.799999999999955" y="124.5" />
+                </edge>
+                <edge source="com.emusicstore.model.ShippingAddress" target="javax.persistence.Entity">
+                  <point x="-62.5" y="-201.5" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.emusicstore.controller.HomeController" target="org.springframework.stereotype.Controller">
+                  <point x="0.0" y="-47.5" />
+                  <point x="2130.0" y="1583.0" />
+                  <point x="1413.6875" y="1583.0" />
+                  <point x="43.4375" y="25.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8533333333333333" x="1099.452830188679" y="918.6015625" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-179">
+              <caret line="13" column="81" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="viewProduct.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addProduct.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addProduct.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-94">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-122">
+              <caret line="48" column="70" lean-forward="true" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>connn</find>
+      <find>rohi/</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/Projects/angular-spring-data-rest-sample" value="1448161069057" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/carousel.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/ProductDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Authorities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Users.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminHome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartResources.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productInventory.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="emusicstore" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="emusicstore" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="36" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="emusicstore" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eMusicStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eMusicStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533663716968" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Development Tools\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="F:/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2850575" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Le\Desktop\eMusicStore\src\main\webapp\WEB-INF\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+      <recent name="C:\Users\Le\Desktop\eMusicStore\src\main\webapp\WEB-INF\resources\css" />
+      <recent name="C:\Users\Le\Desktop\eMusicStore\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.28" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/eMusicStore/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="eMusicStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/eMusicStore" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_eMusicStore" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50132" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c66da60-8cee-40a8-8669-bb72c865a82e" name="Default" comment="" />
+      <created>1451772307954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1451772307954</updated>
+      <workItem from="1451772311555" duration="3397000" />
+      <workItem from="1451786155401" duration="15814000" />
+      <workItem from="1451954106451" duration="1422000" />
+      <workItem from="1451959564385" duration="2279000" />
+      <workItem from="1452131263951" duration="3814000" />
+      <workItem from="1452135687078" duration="1587000" />
+      <workItem from="1533454027908" duration="5101000" />
+      <workItem from="1533485893606" duration="7277000" />
+      <workItem from="1533494340964" duration="15367000" />
+      <workItem from="1533575136045" duration="620000" />
+      <workItem from="1533576283354" duration="2166000" />
+      <workItem from="1533579130901" duration="5754000" />
+      <workItem from="1533585084138" duration="117000" />
+      <workItem from="1533589913652" duration="11308000" />
+      <workItem from="1533616021511" duration="5761000" />
+      <workItem from="1533654204432" duration="7186000" />
+      <workItem from="1533693326450" duration="15001000" />
+      <workItem from="1533744097497" duration="15380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119351000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32919255" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32960895" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.2490024" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3250825" />
+      <window_info id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16336633" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info id="Persistence" order="6" sideWeight="0.12707183" side_tool="true" weight="0.20204978" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8729282" visible="true" weight="0.20204978" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Persistence" order="6" sideWeight="0.12707183" side_tool="true" visible="true" weight="0.20204978" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32919255" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40264025" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.2490024" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3250825" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32960895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8729282" visible="true" weight="0.20204978" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/fonts/glyphicons-halflings-regular.svg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/jquery-1.11.3.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingConstructorAccessorImpl.java" />
+    <entry file="file://$PROJECT_DIR$/out/artifacts/eMusicStore_war_exploded/WEB-INF/applicationContext.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.0.1.Final/hibernate-core-4.0.1.Final.jar!/org/hibernate/engine/internal/UnsavedValueFactory.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.0.1.Final/hibernate-core-4.0.1.Final.jar!/org/hibernate/tuple/PropertyFactory.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.0.1.Final/hibernate-core-4.0.1.Final.jar!/org/hibernate/tuple/entity/EntityMetamodel.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.0.1.Final/hibernate-core-4.0.1.Final.jar!/org/hibernate/persister/entity/AbstractEntityPersister.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/ProductDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.33/mysql-connector-java-5.1.33.jar!/com/mysql/jdbc/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.33/mysql-connector-java-5.1.33.jar!/com/mysql/jdbc/Util.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.33/mysql-connector-java-5.1.33.jar!/com/mysql/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="568" lean-forward="true" selection-start-line="568" selection-end-line="568" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="4" column="214" selection-start-line="4" selection-start-column="214" selection-end-line="4" selection-end-column="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/CartResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Authorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customerManagement.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productInventory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="48" column="70" lean-forward="true" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="13" column="81" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.emusicstore">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.emusicstore</OriginalElement>
+          <nodes>
+            <node x="" y="">com.emusicstore.dao</node>
+            <node x="" y="">com.emusicstore.model</node>
+            <node x="" y="">com.emusicstore.controller</node>
+            <node x="" y="">com.emusicstore.service</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="128.5" y="88.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.emusicstore.dao.CartDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.emusicstore.dao.CartDao</OriginalElement>
+          <nodes>
+            <node x="766.0" y="1727.0">com.emusicstore.controller.CartController</node>
+            <node x="44.5" y="2121.0">com.emusicstore.service.impl.CartServiceImpl</node>
+            <node x="948.85" y="2121.0">com.emusicstore.service.impl.CustomerOrderServiceImpl</node>
+            <node x="1165.25" y="302.0">com.emusicstore.model.ShippingAddress</node>
+            <node x="2215.25" y="302.0">com.emusicstore.model.BillingAddress</node>
+            <node x="129.96805555555545" y="1175.0">com.emusicstore.dao.impl.CartItemDaoImpl</node>
+            <node x="720.75" y="1348.0">org.springframework.web.bind.annotation.RequestMapping</node>
+            <node x="703.1" y="1900.0">com.emusicstore.service.CustomerService</node>
+            <node x="1300.75" y="1425.0">org.springframework.stereotype.Controller</node>
+            <node x="533.25" y="269.0">com.emusicstore.model.Customer</node>
+            <node x="1418.275" y="871.0">com.emusicstore.dao.CustomerDao</node>
+            <node x="198.0" y="1900.0">com.emusicstore.service.CartItemService</node>
+            <node x="1033.0" y="1716.0">com.emusicstore.controller.admin.AdminHome</node>
+            <node x="1591.0" y="1727.0">com.emusicstore.controller.RegisterController</node>
+            <node x="0.0" y="0.0">javax.persistence.Table</node>
+            <node x="2273.0" y="1738.0">com.emusicstore.controller.OrderController</node>
+            <node x="1330.1" y="1889.0">com.emusicstore.service.ProductService</node>
+            <node x="536.859090909091" y="1933.0">org.springframework.stereotype.Service</node>
+            <node x="1319.0" y="1683.0">com.emusicstore.controller.CartResources</node>
+            <node x="0.0" y="1694.0">com.emusicstore.controller.admin.AdminProduct</node>
+            <node x="88.25" y="379.0">com.emusicstore.model.Users</node>
+            <node x="0.0" y="871.0">com.emusicstore.dao.CartItemDao</node>
+            <node x="0.0" y="1922.0">com.emusicstore.service.CartService</node>
+            <node x="501.0" y="904.0">org.springframework.stereotype.Repository</node>
+            <node x="1718.25" y="379.0">com.emusicstore.model.CartItem</node>
+            <node x="444.0" y="1716.0">com.emusicstore.controller.ProductController</node>
+            <node x="1187.65" y="1175.0">com.emusicstore.dao.impl.CustomerDaoImpl</node>
+            <node x="1021.1" y="1922.0">com.emusicstore.service.CustomerOrderService</node>
+            <node x="1157.25" y="33.0">javax.persistence.Entity</node>
+            <node x="311.25" y="423.0">com.emusicstore.model.Authorities</node>
+            <node x="576.609090909091" y="2099.0">com.emusicstore.service.impl.CustomerServiceImpl</node>
+            <node x="1111.275" y="904.0">com.emusicstore.dao.CustomerOrderDao</node>
+            <node x="279.859090909091" y="2099.0">com.emusicstore.service.impl.CartItemServiceImpl</node>
+            <node x="2007.0" y="1716.0">com.emusicstore.controller.HomeController</node>
+            <node x="303.0" y="882.0">com.emusicstore.dao.CartDao</node>
+            <node x="1579.5" y="44.0">java.io.Serializable</node>
+            <node x="1946.25" y="401.0">com.emusicstore.model.Cart</node>
+            <node x="1516.4833333333333" y="1164.0">com.emusicstore.dao.impl.ProductDaoImpl</node>
+            <node x="417.96805555555545" y="1186.0">com.emusicstore.dao.impl.CartDaoImpl</node>
+            <node x="715.3583333333333" y="1208.0">com.emusicstore.dao.impl.CustomerOrderDaoImpl</node>
+            <node x="1435.25" y="247.0">com.emusicstore.model.Product</node>
+            <node x="849.25" y="379.0">com.emusicstore.model.CustomerOrder</node>
+            <node x="1736.275" y="860.0">com.emusicstore.dao.ProductDao</node>
+            <node x="777.275" y="805.0">org.springframework.transaction.annotation.Transactional</node>
+            <node x="1271.85" y="2088.0">com.emusicstore.service.impl.ProductServiceImpl</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.emusicstore.controller.admin.AdminHome" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-66.5" y="-47.5" />
+              <point x="1099.5" y="1623.0" />
+              <point x="870.5500000000001" y="1623.0" />
+              <point x="42.80000000000007" y="102.5" />
+            </edge>
+            <edge source="com.emusicstore.model.BillingAddress" target="java.io.Serializable">
+              <point x="62.5" y="-201.5" />
+              <point x="2402.75" y="137.0" />
+              <point x="1677.9285714285716" y="137.0" />
+              <point x="45.428571428571445" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.model.BillingAddress" target="javax.persistence.Entity">
+              <point x="-62.5" y="-201.5" />
+              <point x="2277.75" y="147.0" />
+              <point x="1290.4166666666667" y="147.0" />
+              <point x="62.66666666666674" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="org.springframework.stereotype.Repository">
+              <point x="0.0" y="-47.5" />
+              <point x="506.96805555555545" y="1114.0" />
+              <point x="542.7" y="1114.0" />
+              <point x="-27.799999999999955" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.CartController" target="org.springframework.stereotype.Controller">
+              <point x="61.75" y="-36.5" />
+              <point x="951.25" y="1653.0" />
+              <point x="1344.1875" y="1653.0" />
+              <point x="-26.0625" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.ProductController" target="org.springframework.stereotype.Controller">
+              <point x="75.5" y="-47.5" />
+              <point x="670.5" y="1643.0" />
+              <point x="1326.8125" y="1643.0" />
+              <point x="-43.4375" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.CartItem" target="javax.persistence.Entity">
+              <point x="-52.0" y="-124.5" />
+              <point x="1770.25" y="187.0" />
+              <point x="1259.0833333333333" y="187.0" />
+              <point x="31.333333333333258" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.admin.AdminProduct" target="org.springframework.stereotype.Controller">
+              <point x="106.0" y="-69.5" />
+              <point x="318.0" y="1633.0" />
+              <point x="1309.4375" y="1633.0" />
+              <point x="-60.8125" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.CartController" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-61.75" y="-36.5" />
+              <point x="0.0" y="102.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+              <point x="0.0" y="-25.5" />
+              <point x="858.8583333333333" y="1144.0" />
+              <point x="934.275" y="1144.0" />
+              <point x="0.0" y="124.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.admin.AdminProduct" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-106.0" y="-69.5" />
+              <point x="106.0" y="1613.0" />
+              <point x="742.15" y="1613.0" />
+              <point x="-85.60000000000002" y="102.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.ProductController" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-75.5" y="-47.5" />
+              <point x="519.5" y="1623.0" />
+              <point x="784.95" y="1623.0" />
+              <point x="-42.799999999999955" y="102.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.service.CustomerOrderService">
+              <point x="72.25" y="-36.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="org.springframework.stereotype.Repository">
+              <point x="-99.33333333333326" y="-58.5" />
+              <point x="1237.3166666666668" y="1104.0" />
+              <point x="598.3" y="1104.0" />
+              <point x="27.799999999999955" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+              <point x="59.33333333333326" y="-47.5" />
+              <point x="566.3013888888887" y="1134.0" />
+              <point x="871.475" y="1134.0" />
+              <point x="-62.799999999999955" y="124.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CartServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="44.5" y="-36.5" />
+              <point x="178.0" y="2058.0" />
+              <point x="550.7590909090909" y="2058.0" />
+              <point x="-55.60000000000002" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Product" target="java.io.Serializable">
+              <point x="65.75" y="-256.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="com.emusicstore.dao.ProductDao">
+              <point x="77.66666666666674" y="-69.5" />
+              <point x="1710.65" y="1144.0" />
+              <point x="1852.775" y="1144.0" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="com.emusicstore.model.CustomerOrder" target="java.io.Serializable">
+              <point x="74.0" y="-124.5" />
+              <point x="1071.25" y="217.0" />
+              <point x="1602.2142857142858" y="217.0" />
+              <point x="-30.285714285714334" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CartServiceImpl" target="com.emusicstore.service.CartService">
+              <point x="-44.5" y="-36.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="com.emusicstore.dao.CustomerDao">
+              <point x="99.33333333333337" y="-58.5" />
+              <point x="1435.9833333333336" y="1144.0" />
+              <point x="1567.275" y="1144.0" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="com.emusicstore.dao.CartDao">
+              <point x="-59.33333333333326" y="-47.5" />
+              <point x="447.6347222222222" y="1094.0" />
+              <point x="392.0" y="1094.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="com.emusicstore.model.CustomerOrder" target="javax.persistence.Entity">
+              <point x="-74.0" y="-124.5" />
+              <point x="923.25" y="197.0" />
+              <point x="1212.0833333333333" y="197.0" />
+              <point x="-15.666666666666742" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.CartItem" target="java.io.Serializable">
+              <point x="52.0" y="-124.5" />
+              <point x="1874.25" y="177.0" />
+              <point x="1647.642857142857" y="177.0" />
+              <point x="15.14285714285711" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="org.springframework.stereotype.Repository">
+              <point x="-95.66666666666669" y="-25.5" />
+              <point x="763.1916666666666" y="1114.0" />
+              <point x="570.5" y="1114.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.CartResources" target="org.springframework.stereotype.Controller">
+              <point x="63.0" y="-80.5" />
+              <point x="1508.0" y="1603.0" />
+              <point x="1378.9375" y="1603.0" />
+              <point x="8.6875" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.OrderController" target="org.springframework.stereotype.Controller">
+              <point x="0.0" y="-25.5" />
+              <point x="2366.5" y="1573.0" />
+              <point x="1431.0625" y="1573.0" />
+              <point x="60.8125" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Product" target="javax.persistence.Entity">
+              <point x="-65.75" y="-256.5" />
+              <point x="1501.0" y="197.0" />
+              <point x="1243.4166666666667" y="197.0" />
+              <point x="15.666666666666742" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.admin.AdminHome" target="org.springframework.stereotype.Controller">
+              <point x="66.5" y="-47.5" />
+              <point x="1232.5" y="1663.0" />
+              <point x="1361.5625" y="1663.0" />
+              <point x="-8.6875" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Users" target="javax.persistence.Entity">
+              <point x="50.75" y="-124.5" />
+              <point x="240.5" y="167.0" />
+              <point x="1165.0833333333333" y="167.0" />
+              <point x="-62.66666666666674" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Cart" target="java.io.Serializable">
+              <point x="62.25" y="-102.5" />
+              <point x="2133.0" y="157.0" />
+              <point x="1662.7857142857142" y="157.0" />
+              <point x="30.285714285714334" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="org.springframework.stereotype.Repository">
+              <point x="-77.66666666666674" y="-69.5" />
+              <point x="1555.3166666666666" y="1084.0" />
+              <point x="626.1" y="1084.0" />
+              <point x="55.60000000000002" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="-58.25" y="-69.5" />
+              <point x="1330.1" y="2048.0" />
+              <point x="661.959090909091" y="2048.0" />
+              <point x="55.60000000000002" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="67.0" y="-58.5" />
+              <point x="480.859090909091" y="2068.0" />
+              <point x="578.5590909090911" y="2068.0" />
+              <point x="-27.799999999999955" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+              <point x="89.33333333333326" y="-58.5" />
+              <point x="353.3013888888887" y="1124.0" />
+              <point x="808.675" y="1124.0" />
+              <point x="-125.60000000000002" y="124.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="com.emusicstore.service.CustomerService">
+              <point x="74.5" y="-58.5" />
+              <point x="800.109090909091" y="2068.0" />
+              <point x="852.1" y="2068.0" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Customer" target="javax.persistence.Entity">
+              <point x="-74.0" y="-234.5" />
+              <point x="607.25" y="187.0" />
+              <point x="1196.4166666666667" y="187.0" />
+              <point x="-31.333333333333258" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="-74.5" y="-58.5" />
+              <point x="651.109090909091" y="2068.0" />
+              <point x="606.359090909091" y="2068.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.RegisterController" target="org.springframework.stereotype.Controller">
+              <point x="0.0" y="-36.5" />
+              <point x="1789.0" y="1593.0" />
+              <point x="1396.3125" y="1593.0" />
+              <point x="26.0625" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Customer" target="java.io.Serializable">
+              <point x="74.0" y="-234.5" />
+              <point x="755.25" y="207.0" />
+              <point x="1587.0714285714284" y="207.0" />
+              <point x="-45.428571428571445" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="com.emusicstore.dao.CartItemDao">
+              <point x="-89.33333333333326" y="-58.5" />
+              <point x="174.6347222222222" y="1144.0" />
+              <point x="134.0" y="1144.0" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Users" target="javax.persistence.Table">
+              <point x="-50.75" y="-124.5" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="org.springframework.stereotype.Repository">
+              <point x="0.0" y="-58.5" />
+              <point x="263.96805555555545" y="1104.0" />
+              <point x="514.9" y="1104.0" />
+              <point x="-55.60000000000002" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+              <point x="0.0" y="-69.5" />
+              <point x="1632.9833333333333" y="1074.0" />
+              <point x="1059.875" y="1074.0" />
+              <point x="125.60000000000014" y="124.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="com.emusicstore.dao.CustomerOrderDao">
+              <point x="95.66666666666669" y="-25.5" />
+              <point x="954.5250000000001" y="1144.0" />
+              <point x="1254.775" y="1144.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="-72.25" y="-36.5" />
+              <point x="1021.1" y="2058.0" />
+              <point x="634.159090909091" y="2058.0" />
+              <point x="27.799999999999955" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Cart" target="javax.persistence.Entity">
+              <point x="-62.25" y="-102.5" />
+              <point x="2008.5" y="167.0" />
+              <point x="1274.75" y="167.0" />
+              <point x="47.0" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="com.emusicstore.service.CartItemService">
+              <point x="-67.0" y="-58.5" />
+              <point x="346.859090909091" y="2048.0" />
+              <point x="332.0" y="2048.0" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.emusicstore.model.Authorities" target="javax.persistence.Entity">
+              <point x="0.0" y="-80.5" />
+              <point x="412.25" y="177.0" />
+              <point x="1180.75" y="177.0" />
+              <point x="-47.0" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="com.emusicstore.service.ProductService">
+              <point x="58.25" y="-69.5" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.CartResources" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-63.0" y="-80.5" />
+              <point x="1382.0" y="1613.0" />
+              <point x="913.35" y="1613.0" />
+              <point x="85.60000000000002" y="102.5" />
+            </edge>
+            <edge source="com.emusicstore.model.ShippingAddress" target="java.io.Serializable">
+              <point x="62.5" y="-201.5" />
+              <point x="1352.75" y="227.0" />
+              <point x="1617.357142857143" y="227.0" />
+              <point x="-15.14285714285711" y="14.5" />
+            </edge>
+            <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="org.springframework.transaction.annotation.Transactional">
+              <point x="0.0" y="-58.5" />
+              <point x="1336.65" y="1094.0" />
+              <point x="997.0749999999999" y="1094.0" />
+              <point x="62.799999999999955" y="124.5" />
+            </edge>
+            <edge source="com.emusicstore.model.ShippingAddress" target="javax.persistence.Entity">
+              <point x="-62.5" y="-201.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.emusicstore.controller.HomeController" target="org.springframework.stereotype.Controller">
+              <point x="0.0" y="-47.5" />
+              <point x="2130.0" y="1583.0" />
+              <point x="1413.6875" y="1583.0" />
+              <point x="43.4375" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8533333333333333" x="1099.452830188679" y="918.6015625" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>eMusicStore:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (eMusicStore)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate|eMusicStore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
